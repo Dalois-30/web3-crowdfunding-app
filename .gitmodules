@@ -1,6 +1,6 @@
 [submodule "web3-crowdfunding-contracts"]
-	path = web3-crowdfunding-contracts
+	path = web3
 	url = https://github.com/Dalois-30/web3-crowdfunding-contracts
 [submodule "web3-crowdfunding-client"]
-	path = web3-crowdfunding-client
+	path = client
 	url = https://github.com/Dalois-30/web3-crowdfunding-client
